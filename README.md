@@ -111,5 +111,5 @@ Advanced segmentation (region, device, source)
 
 👨‍💻 Author
 
-Ashutosh Kumar Jha
+Ashutosh Kumar Jha <br>
 Data Analyst | SQL | Python | Power BI
