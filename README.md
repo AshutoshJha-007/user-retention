@@ -30,18 +30,18 @@ This project answers:
 ---
 
 ## 🏗️ Architecture
-user-retention-pro/
-├── cohort/core.py # Core cohort & retention logic
-├── utils/logger.py # Logging system
-├── utils/validation.py # Data validation layer
-├── config.py # Configurations
-├── io.py # Data loading
-├── metrics.py # Analytical metrics
-├── viz.py # Visualization functions
-├── cli.py # CLI execution
-├── tests/ # Unit tests
-├── requirements.txt
-└── README.md
+user-retention-pro/ <br>
+├── cohort/core.py # Core cohort & retention logic <br>
+├── utils/logger.py # Logging system <br>
+├── utils/validation.py # Data validation layer <br>
+├── config.py # Configurations <br>
+├── io.py # Data loading <br>
+├── metrics.py # Analytical metrics <br>
+├── viz.py # Visualization functions <br>
+├── cli.py # CLI execution <br>
+├── tests/ # Unit tests <br>
+├── requirements.txt <br>
+└── README.md <br>
 
 ---
 
