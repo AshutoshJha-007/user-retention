@@ -1,4 +1,4 @@
-# 📊 User Retention & Cohort Analysis (Production-Grade)
+# 📊 User Retention & Cohort Analysis 
 
 ## 🚀 Overview
 This project implements a production-style cohort analysis system to measure user retention, churn behavior, and lifecycle value trends. It is designed with a modular architecture, making it scalable, reusable, and suitable for real-world analytics workflows.
